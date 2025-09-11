@@ -41,3 +41,5 @@
 - 산책을 다녀오면 NPC의 나이는 증가합니다
 
 
+![Untitled (Draft)-1](https://github.com/user-attachments/assets/fabb7ae2-4c38-4e20-ba16-aa40d9275f03)
+

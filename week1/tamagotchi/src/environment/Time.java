@@ -43,6 +43,7 @@ public class Time implements Runnable {
                             int happiness = walker.calculateEffects(10);
                             int health  = walker.calculateEffects(10);
                             int hunger = walker.calculateEffects(10);
+                            walker.growOlder();
                             System.out.println(walker.walkReport(game.getSelectedTamagotchi().name, happiness, health, hunger));
                             System.out.println("Now, please continue by selecting a command: ");
 
